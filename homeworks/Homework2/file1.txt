@@ -1,0 +1,10 @@
+
+
+a) Kernel:
+The kernel is the central part of the Linux operating system. It manages the system’s hardware, including the CPU, memory, and connected devices. It controls how processes run, how memory is used, how files are stored and accessed, and how the system communicates over networks. Essentially, it connects applications to the hardware.
+
+b) Libraries:
+Libraries are collections of reusable code that programs rely on to perform tasks. Instead of writing everything from scratch, applications use libraries (like the standard C library) to handle common operations such as input/output, memory management, and communication with the system. This makes development easier and more efficient.
+
+c) System Utilities:
+System utilities are basic tools that help users and administrators manage the system. These include commands like listing files, copying data, checking running processes, and managing services. They allow for day-to-day system interaction and are often used for configuration and automation.
